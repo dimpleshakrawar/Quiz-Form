@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of India?",
+    "ans": "2",
+    "options": [
+      {
+        "id": "1",
+        "value": "New York"
+      },
+      {
+        "id": "2",
+        "value": "Delhi"
+      },
+      {
+        "id": "3",
+        "value": "Paris"
+      },
+      {
+        "id": "4",
+        "value": "Dublin"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is national animal ?",
+    "ans": "4",
+    "options": [
+      {
+        "id": "1",
+        "value": "Pigeon"
+      },
+      {
+        "id": "2",
+        "value": "Peacock"
+      },
+      {
+        "id": "3",
+        "value": "Lion"
+      },
+      {
+        "id": "4",
+        "value": "Tiger"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Gobar gas contains mainly which gas?",
+    "ans": "1",
+    "options": [
+      {
+        "id": "1",
+        "value": "Methane"
+      },
+      {
+        "id": "2",
+        "value": "Hydrogen"
+      },
+      {
+        "id": "3",
+        "value": "Oxygen"
+      },
+      {
+        "id": "4",
+        "value": "Silicon"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Which is the biggest Public Sector undertaking in the country?",
+    "ans": "4",
+    "options": [
+      {
+        "id": "1",
+        "value": "Buses"
+      },
+      {
+        "id": "2",
+        "value": "IT sector"
+      },
+      {
+        "id": "3",
+        "value": "Railways"
+      },
+      {
+        "id": "4",
+        "value": "Banking Sector"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which rocks is transformed into marble?",
+    "ans": "1",
+    "options": [
+      {
+        "id": "1",
+        "value": "Limestone"
+      },
+      {
+        "id": "2",
+        "value": "Black stone"
+      },
+      {
+        "id": "3",
+        "value": "Red stone"
+      },
+      {
+        "id": "4",
+        "value": "Grenite"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Who appoints the Chief Election Commissioner of India?",
+    "ans": "3",
+    "options": [
+      {
+        "id": "1",
+        "value": "Prime Minister"
+      },
+      {
+        "id": "2",
+        "value": "Deputy Minister"
+      },
+      {
+        "id": "3",
+        "value": "President"
+      },
+      {
+        "id": "4",
+        "value": "Chief Minister"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which Englishmen was fellow of Gandhiji in South Africa?",
+    "ans": "3",
+    "options": [
+      {
+        "id": "1",
+        "value": "John delton"
+      },
+      {
+        "id": "2",
+        "value": "Washington"
+      },
+      {
+        "id": "3",
+        "value": "Polak"
+      },
+      {
+        "id": "4",
+        "value": "Trumph"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "By which number the quality of gasoline sample is determined?",
+    "ans": "1",
+    "options": [
+      {
+        "id": "1",
+        "value": "By its octane number"
+      },
+      {
+        "id": "2",
+        "value": "Iodine Value"
+      },
+      {
+        "id": "3",
+        "value": "Cetaine Number"
+      },
+      {
+        "id": "4",
+        "value": "Mass density"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Due to bite of mad dog the disease hydrophobia is caused by which virus?",
+    "ans": "3",
+    "options": [
+      {
+        "id": "1",
+        "value": "Dengue"
+      },
+      {
+        "id": "2",
+        "value": "Chinkengunia"
+      },
+      {
+        "id": "3",
+        "value": "Rabies virus"
+      },
+      {
+        "id": "4",
+        "value": "Cancer"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What is the principal reason for the formation of metamorphic rocks?",
+    "ans": "2",
+    "options": [
+      {
+        "id": "1",
+        "value": "Extreme pressure ad heat"
+      },
+      {
+        "id": "2",
+        "value": "Extreme heat and pressure"
+      },
+      {
+        "id": "3",
+        "value": "Extreme heat"
+      },
+      {
+        "id": "4",
+        "value": "Extreme pressure"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Who said 'I therefore want freedom immediately, this very night, before dawn if it can be had'?",
+    "ans": "1",
+    "options": [
+      {
+        "id": "1",
+        "value": "Mahatma Gandhi"
+      },
+      {
+        "id": "2",
+        "value": "Jawahar Lal Nehru"
+      },
+      {
+        "id": "3",
+        "value": "Ravindra Nath Tagore"
+      },
+      {
+        "id": "4",
+        "value": "Bal Gangadhar Tilak"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "A temperature at which both the Fahrenheit and the centigrade scales have the same value?",
+    "ans": "3",
+    "options": [
+      {
+        "id": "1",
+        "value": "10 degree"
+      },
+      {
+        "id": "2",
+        "value": ".20 degree"
+      },
+      {
+        "id": "3",
+        "value": "-40°"
+      },
+      {
+        "id": "4",
+        "value": "40°"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "With which is the 'Tennis court oath' associated?",
+    "ans": "1",
+    "options": [
+      {
+        "id": "1",
+        "value": "French Revolution"
+      },
+      {
+        "id": "2",
+        "value": "Japan Revolution"
+      },
+      {
+        "id": "3",
+        "value": "African Revolution"
+      },
+      {
+        "id": "4",
+        "value": "American Revolution"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Which is the tax that takes away a higher proportion of one's income as the income rises?",
+    "ans": "2",
+    "options": [
+      {
+        "id": "1",
+        "value": "Unprogressively tax"
+      },
+      {
+        "id": "2",
+        "value": "Land tax"
+      },
+      {
+        "id": "3",
+        "value": "Progressive tax"
+      },
+      {
+        "id": "4",
+        "value": "Property tax"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Who gave theory of relativity?",
+    "ans": "3",
+    "options": [
+      {
+        "id": "1",
+        "value": "Thomas Alva Edison"
+      },
+      {
+        "id": "2",
+        "value": "J L Bird"
+      },
+      {
+        "id": "3",
+        "value": "Albert Einstein"
+      },
+      {
+        "id": "4",
+        "value": "Issac Newton"
+      }
+    ]
+  }
+]
